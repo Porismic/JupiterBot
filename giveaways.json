@@ -1,0 +1,25 @@
+{
+  "1f599139-4bee-401c-a6f0-050b77b33d08": {
+    "id": "1f599139-4bee-401c-a6f0-050b77b33d08",
+    "name": "test",
+    "prizes": "test",
+    "host_id": 1383388962198126643,
+    "channel_id": 1362630492477980834,
+    "winners": 1,
+    "end_time": 1750109528,
+    "participants": {},
+    "status": "created",
+    "embed_color": 6819240,
+    "role_restricted": false,
+    "required_roles": [],
+    "extra_entry_roles": [],
+    "bypass_roles": [],
+    "required_level": 0,
+    "required_messages": {
+      "type": null,
+      "amount": 0
+    },
+    "thumbnail_url": null,
+    "image_url": null
+  }
+}

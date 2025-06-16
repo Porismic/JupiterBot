@@ -1,0 +1,17 @@
+{
+  "test": {
+    "message_id": 1383509473703887020,
+    "channel_id": 1362836497060855959,
+    "tier": "tier test"
+  },
+  "cowgirl": {
+    "message_id": 1383509912252059768,
+    "channel_id": 1362836497060855959,
+    "tier": "d"
+  },
+  "crystal 2023": {
+    "message_id": 1383510453342179439,
+    "channel_id": 1362836497060855959,
+    "tier": "d"
+  }
+}
